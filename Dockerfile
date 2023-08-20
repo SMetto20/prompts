@@ -12,3 +12,4 @@ EXPOSE 8081
 
 # Specify the command to run the Spring Boot application
 CMD ["java", "-jar", "app.jar"]
+ ## I HAVE TO PUSH THIS CODE
