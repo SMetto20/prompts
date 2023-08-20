@@ -1,5 +1,5 @@
 # Use the official Oracle OpenJDK 20.0.2 as the base image
-FROM oracle/openjdk:20.0.2
+FROM openjdk:20
 
 # Set the working directory inside the container
 WORKDIR /app
